@@ -1,1 +1,1 @@
-I decided to right my code in php since my script was visible allowing attackers to be able to steal information from the site, php scripts aren not displayed on the browser, even when you view page source.
+I decided to write my code in php since my script was visible allowing attackers to be able to steal information from the site, php scripts aren not displayed on the browser, even when you view page source.
