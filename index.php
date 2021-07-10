@@ -1,5 +1,5 @@
 <?php
-  $api_key = 'at_ONQTCJNH3JIump9YwqOKBseCMpBIH';
+  $api_key = 'at_SSqNQP7l0fuO9Tm7bQb1SUL0K0cp6';
   $api_url = 'https://geo.ipify.org/api/v1';
 
   $url = "{$api_url}?apiKey={$api_key}&ipAddress";
@@ -67,7 +67,7 @@
 
          
           $ip = htmlspecialchars(strip_tags($_POST['ip']));
-          $api_key = 'at_ONQTCJNH3JIump9YwqOKBseCMpBIH';
+          $api_key = 'at_SSqNQP7l0fuO9Tm7bQb1SUL0K0cp6';
           $api_url = 'https://geo.ipify.org/api/v1';
       
           $url = "{$api_url}?apiKey={$api_key}&domain={$ip}";
